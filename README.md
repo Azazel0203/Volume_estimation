@@ -1,7 +1,7 @@
 # LiDAR-based Object Dimension and Volume Estimation
 
 
-![Image Description](https://ibb.co/NFKqm73)
+![Image Description]((https://ibb.co/NFKqm73))
 
 This repository contains the exploratory project report titled "Use of LiDAR Technology for Determination of Volume and Dimensions of Objects" conducted by Aadarsh Kumar, Vaatsalya Sinha, Harsh Kumar, and Sangle Nilesh Ganesh under the guidance of Dr. Kishor P. Sarawadekar at the Department of Electronics Engineering, IIT (BHU) Varanasi.
 
