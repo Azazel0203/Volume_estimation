@@ -33,7 +33,7 @@ Among the explored approaches, Approach 5 (Using one RPLiDAR and a Servo Motor) 
 
 ## Usage
 
-1. Clone this repository: `git clone <repository-url>`
+1. Clone this repository: `git clone https://github.com/Azazel0203/Volume_estimation.git'
 2. Navigate to the desired approach's code directory
 3. Follow the instructions in the documentation to set up and run the code
 4. Analyze the results and adapt the methodology for specific use cases
