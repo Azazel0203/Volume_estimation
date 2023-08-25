@@ -1,12 +1,10 @@
-Sure, here's a condensed version of your project report that could be used as a GitHub repository README:
+# LiDAR-based Object Dimension and Volume Estimation
 
-# LiDAR-based Cuboid Object Dimension and Volume Estimation
-
-This repository contains the exploratory project report titled "Use of LiDAR Technology for Determination of Volume and Dimensions of Cuboidal Objects" conducted by Aadarsh Kumar, Vaatsalya Sinha, Harsh Kumar, and Sangle Nilesh Ganesh under the guidance of Dr. Kishor P. Sarawadekar at the Department of Electronics Engineering, IIT (BHU) Varanasi.
+This repository contains the exploratory project report titled "Use of LiDAR Technology for Determination of Volume and Dimensions of Objects" conducted by Aadarsh Kumar, Vaatsalya Sinha, Harsh Kumar, and Sangle Nilesh Ganesh under the guidance of Dr. Kishor P. Sarawadekar at the Department of Electronics Engineering, IIT (BHU) Varanasi.
 
 ## Abstract
 
-The project aims to automate the determination of dimensions and volume of cuboidal objects using LiDAR technology. The proposed system utilizes a single RPLiDAR and various approaches to calculate dimensions and volume accurately and efficiently. The system's average error is around 3% in dimension estimation.
+The project aims to automate the determination of dimensions and volume of objects using LiDAR technology. The proposed system utilizes a single RPLiDAR and various approaches to calculate dimensions and volume accurately and efficiently. The system's average error is around 3% in dimension estimation.
 
 ## Problem Statement
 
@@ -48,8 +46,3 @@ We would like to express our sincere gratitude to Dr. Kishor P. Sarawadekar for 
 - Vaatsalya Sinha
 - Harsh Kumar
 - Sangle Nilesh Ganesh
-
-
----
-
-*Note: This is a summarized version for a GitHub README and may require further formatting and customization according to your preference.*
